@@ -1,0 +1,11 @@
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\bin\Debug\netstandard2.0\NetWorkPCL.deps.json
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\bin\Debug\netstandard2.0\NetWorkPCL.dll
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\bin\Debug\netstandard2.0\NetWorkPCL.pdb
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\obj\Debug\netstandard2.0\NetWorkPCL.csprojResolveAssemblyReference.cache
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\obj\Debug\netstandard2.0\NetWorkPCL.csproj.CoreCompileInputs.cache
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\obj\Debug\netstandard2.0\NetWorkPCL.App.xaml.g.cs
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\obj\Debug\netstandard2.0\NetWorkPCL.MainPage.xaml.g.cs
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\obj\Debug\netstandard2.0\NetWorkPCL.AssemblyInfoInputs.cache
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\obj\Debug\netstandard2.0\NetWorkPCL.AssemblyInfo.cs
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\obj\Debug\netstandard2.0\NetWorkPCL.dll
+C:\VS_WorkSpace\NetWorkPCL\NetWorkPCL\NetWorkPCL\obj\Debug\netstandard2.0\NetWorkPCL.pdb
